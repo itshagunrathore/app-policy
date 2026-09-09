@@ -2,9 +2,6 @@
 
 **Last updated: 27 August 2026**
 
-> **Before publishing:** host this document at a public URL and enter that URL in the Google Play Console
-> listing. Play requires a reachable privacy policy URL even for an app that collects no data.
-
 Unpile is an Android app that helps you review your own photo library and reclaim storage space.
 This policy explains what the app does and does not do with your information.
 
