@@ -103,5 +103,4 @@ Play Data safety section before the change took effect.
 
 Questions about this policy or the app:
 
-**Shagun Rathore**
 **needcode.web@gmail.com**
